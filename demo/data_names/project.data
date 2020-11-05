@@ -1,0 +1,5 @@
+classes= 6
+train  = /content/demo/train_txt/train_t.txt
+valid  = /content/demo/train_txt/test_t.txt
+names  = /content/demo/data_names/project.names
+backup = /content/demo/weights
